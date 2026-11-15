@@ -87,4 +87,4 @@ CosmoVision/
 
 ---
 
-**Autor:** Fernando Miguel Pérez Casco · Ingeniería en Sistemas y Computación · UTEC
+**Autor:** Mario Ernesto Vicente Beltrán · Ingeniería en Sistemas y Computación · UTEC
